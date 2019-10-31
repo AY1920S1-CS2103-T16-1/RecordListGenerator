@@ -1,0 +1,4325 @@
+{
+  "records" : [ {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-07 12:12",
+    "concentration" : "5.624781509299031",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-08 12:12",
+    "concentration" : "5.8608368110808335",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-09 12:12",
+    "concentration" : "4.236940902780568",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-10 12:12",
+    "concentration" : "7.781848551769139",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-11 12:12",
+    "concentration" : "7.334897532021211",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-12 12:12",
+    "concentration" : "6.549066757106077",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-13 12:12",
+    "concentration" : "7.659528097549584",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-14 12:12",
+    "concentration" : "6.642670149821777",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-15 12:12",
+    "concentration" : "6.357481050636819",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-16 12:12",
+    "concentration" : "5.589109338517089",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-17 12:12",
+    "concentration" : "4.875852925836467",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-18 12:12",
+    "concentration" : "4.885345812316898",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-19 12:12",
+    "concentration" : "5.402634061373872",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-20 12:12",
+    "concentration" : "5.068326539874337",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-21 12:12",
+    "concentration" : "7.1977213466092245",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-22 12:12",
+    "concentration" : "5.854252792187649",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-23 12:12",
+    "concentration" : "5.3695253246571735",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-24 12:12",
+    "concentration" : "5.150760601130973",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-25 12:12",
+    "concentration" : "5.58513550026614",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-26 12:12",
+    "concentration" : "6.812489638368125",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-27 12:12",
+    "concentration" : "4.968814419705",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-28 12:12",
+    "concentration" : "7.791162561152304",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-29 12:12",
+    "concentration" : "7.3868979344719925",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-06-30 12:12",
+    "concentration" : "4.891461912182215",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-01 12:12",
+    "concentration" : "7.210476502369222",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-02 12:12",
+    "concentration" : "4.083509168117288",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-03 12:12",
+    "concentration" : "7.214411667779525",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-04 12:12",
+    "concentration" : "4.0957387126745655",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-05 12:12",
+    "concentration" : "6.3015176138464195",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-06 12:12",
+    "concentration" : "4.566263770317259",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-07 12:12",
+    "concentration" : "5.405151498021226",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-08 12:12",
+    "concentration" : "6.387178991631108",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-09 12:12",
+    "concentration" : "4.86896202358859",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-10 12:12",
+    "concentration" : "5.235768885375969",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-11 12:12",
+    "concentration" : "4.740704791026841",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-12 12:12",
+    "concentration" : "5.079198813260929",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-13 12:12",
+    "concentration" : "4.623731382612965",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-14 12:12",
+    "concentration" : "7.429250552225946",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-15 12:12",
+    "concentration" : "5.936694018029451",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-16 12:12",
+    "concentration" : "6.942669806620392",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-17 12:12",
+    "concentration" : "7.331499135833866",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-18 12:12",
+    "concentration" : "7.083713113063617",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-19 12:12",
+    "concentration" : "4.254161886135732",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-20 12:12",
+    "concentration" : "5.107015476552928",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-21 12:12",
+    "concentration" : "4.306405806729942",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-22 12:12",
+    "concentration" : "4.252943497542774",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-23 12:12",
+    "concentration" : "7.268435348877974",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-24 12:12",
+    "concentration" : "7.018986612241557",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-25 12:12",
+    "concentration" : "6.539968494143109",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-26 12:12",
+    "concentration" : "7.4730713985194654",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-27 12:12",
+    "concentration" : "7.249033116008235",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-28 12:12",
+    "concentration" : "5.539615140605443",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-29 12:12",
+    "concentration" : "6.369459386454128",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-30 12:12",
+    "concentration" : "5.624386622566993",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-07-31 12:12",
+    "concentration" : "5.167415244798443",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-01 12:12",
+    "concentration" : "6.284511412214661",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-02 12:12",
+    "concentration" : "6.181903631930304",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-03 12:12",
+    "concentration" : "4.353939323291048",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-04 12:12",
+    "concentration" : "4.922685738909777",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-05 12:12",
+    "concentration" : "5.989761168396516",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-06 12:12",
+    "concentration" : "7.026602369361096",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-07 12:12",
+    "concentration" : "7.765362408356154",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-08 12:12",
+    "concentration" : "6.376263658757514",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-09 12:12",
+    "concentration" : "7.749302715858336",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-10 12:12",
+    "concentration" : "6.444923477761259",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-11 12:12",
+    "concentration" : "4.243978454798939",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-12 12:12",
+    "concentration" : "5.26684431832625",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-13 12:12",
+    "concentration" : "6.026049189778661",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-14 12:12",
+    "concentration" : "4.988907074219722",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-15 12:12",
+    "concentration" : "6.492534721508246",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-16 12:12",
+    "concentration" : "7.676506361313702",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-17 12:12",
+    "concentration" : "7.6921651518657805",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-18 12:12",
+    "concentration" : "7.441085497603202",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-19 12:12",
+    "concentration" : "4.944654214605579",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-20 12:12",
+    "concentration" : "6.297613357805931",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-21 12:12",
+    "concentration" : "5.7469018657881605",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-22 12:12",
+    "concentration" : "6.17079181758723",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-23 12:12",
+    "concentration" : "5.787551287882058",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-24 12:12",
+    "concentration" : "5.3069506427526845",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-25 12:12",
+    "concentration" : "4.67555335337331",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-26 12:12",
+    "concentration" : "5.503318511682204",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-27 12:12",
+    "concentration" : "4.018304686790582",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-28 12:12",
+    "concentration" : "5.363579086318216",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-29 12:12",
+    "concentration" : "6.411672048474106",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-30 12:12",
+    "concentration" : "4.689246637046782",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-08-31 12:12",
+    "concentration" : "5.843525882201342",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-01 12:12",
+    "concentration" : "5.34974406342009",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-02 12:12",
+    "concentration" : "6.700586204266754",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-03 12:12",
+    "concentration" : "7.6025487837947905",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-04 12:12",
+    "concentration" : "6.890671485249031",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-05 12:12",
+    "concentration" : "4.928038124162343",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-06 12:12",
+    "concentration" : "5.473020139567126",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-07 12:12",
+    "concentration" : "4.473322712685582",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-08 12:12",
+    "concentration" : "5.713676624856386",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-09 12:12",
+    "concentration" : "7.708744372839689",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-10 12:12",
+    "concentration" : "4.744287909818557",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-11 12:12",
+    "concentration" : "6.072522117535657",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-12 12:12",
+    "concentration" : "6.404500414976729",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-13 12:12",
+    "concentration" : "4.494082935018947",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-14 12:12",
+    "concentration" : "5.705874672605027",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-15 12:12",
+    "concentration" : "7.524215248697427",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-16 12:12",
+    "concentration" : "7.4429698113127145",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-17 12:12",
+    "concentration" : "7.614569500570742",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-18 12:12",
+    "concentration" : "7.790550540667208",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-19 12:12",
+    "concentration" : "5.655718875034344",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-20 12:12",
+    "concentration" : "7.292599562143744",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-21 12:12",
+    "concentration" : "6.8830177785288384",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-22 12:12",
+    "concentration" : "6.341185719338949",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-23 12:12",
+    "concentration" : "6.855644321081453",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-24 12:12",
+    "concentration" : "5.778985880071235",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-25 12:12",
+    "concentration" : "7.218765719883691",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-26 12:12",
+    "concentration" : "6.974031578925042",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-27 12:12",
+    "concentration" : "4.759850436973126",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-28 12:12",
+    "concentration" : "6.956363228006461",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-29 12:12",
+    "concentration" : "4.919792933018835",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-09-30 12:12",
+    "concentration" : "4.945003166010366",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-01 12:12",
+    "concentration" : "5.071831481319791",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-02 12:12",
+    "concentration" : "6.745100706195332",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-03 12:12",
+    "concentration" : "6.38675965418889",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-04 12:12",
+    "concentration" : "5.913144283914081",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-05 12:12",
+    "concentration" : "4.517824302617737",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-06 12:12",
+    "concentration" : "5.14335396740692",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-07 12:12",
+    "concentration" : "6.000829428426583",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-08 12:12",
+    "concentration" : "6.792903739297778",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-09 12:12",
+    "concentration" : "4.461819925271949",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-10 12:12",
+    "concentration" : "7.448409653781043",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-11 12:12",
+    "concentration" : "7.495697197574357",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-12 12:12",
+    "concentration" : "6.932715388444149",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-13 12:12",
+    "concentration" : "6.534168926314388",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-14 12:12",
+    "concentration" : "5.1818916407426645",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-15 12:12",
+    "concentration" : "4.8713517873856835",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-16 12:12",
+    "concentration" : "7.4790190387079765",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-17 12:12",
+    "concentration" : "4.885788024422922",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-18 12:12",
+    "concentration" : "5.222749646859547",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-19 12:12",
+    "concentration" : "6.687954713788378",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-20 12:12",
+    "concentration" : "4.601391052450646",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-21 12:12",
+    "concentration" : "5.839078103501798",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-22 12:12",
+    "concentration" : "7.324762947957234",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-23 12:12",
+    "concentration" : "4.024532884227179",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-24 12:12",
+    "concentration" : "7.506873357182936",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-25 12:12",
+    "concentration" : "7.696634734107462",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-26 12:12",
+    "concentration" : "6.212743394764374",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-27 12:12",
+    "concentration" : "7.0768516059121795",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-28 12:12",
+    "concentration" : "6.475773670588971",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-29 12:12",
+    "concentration" : "6.9944209495942555",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-30 12:12",
+    "concentration" : "6.081613263737455",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-10-31 12:12",
+    "concentration" : "4.652833508077125",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-01 12:12",
+    "concentration" : "5.8911201297935385",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-02 12:12",
+    "concentration" : "6.536256371537712",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-03 12:12",
+    "concentration" : "6.9768508576583095",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-04 12:12",
+    "concentration" : "6.827673870318634",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-05 12:12",
+    "concentration" : "6.786631493146752",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-06 12:12",
+    "concentration" : "6.348484307937873",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-07 12:12",
+    "concentration" : "4.8152298340640325",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-08 12:12",
+    "concentration" : "7.730850136659656",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-09 12:12",
+    "concentration" : "7.148042777673035",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-10 12:12",
+    "concentration" : "5.779370072212597",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-11 12:12",
+    "concentration" : "7.007052719090915",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-12 12:12",
+    "concentration" : "7.742323386302313",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-13 12:12",
+    "concentration" : "7.399681541541308",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-14 12:12",
+    "concentration" : "6.206239297405533",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-15 12:12",
+    "concentration" : "5.682756567904274",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-16 12:12",
+    "concentration" : "5.630339078177769",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-17 12:12",
+    "concentration" : "6.887856857475218",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-18 12:12",
+    "concentration" : "4.25728312748655",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-19 12:12",
+    "concentration" : "7.5622734778955465",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-20 12:12",
+    "concentration" : "4.506725837711963",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-21 12:12",
+    "concentration" : "5.097067000247174",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-22 12:12",
+    "concentration" : "6.23753215115135",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-23 12:12",
+    "concentration" : "4.2875730226818245",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-24 12:12",
+    "concentration" : "4.583732954660866",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-25 12:12",
+    "concentration" : "5.725457495547702",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-26 12:12",
+    "concentration" : "5.357811455359091",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-27 12:12",
+    "concentration" : "7.482989603696257",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-28 12:12",
+    "concentration" : "6.830134302615834",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-29 12:12",
+    "concentration" : "7.210167646786095",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-11-30 12:12",
+    "concentration" : "5.932953109206165",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-12-01 12:12",
+    "concentration" : "5.755290632845547",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",
+    "dateTime" : "2019-12-02 12:12",
+    "concentration" : "4.732106935231995",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "BloodSugar",{
+    "records" : [ {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-07 12:12",
+      "concentration" : "5.624781509299031",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-08 12:12",
+      "concentration" : "5.8608368110808335",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-09 12:12",
+      "concentration" : "4.236940902780568",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-10 12:12",
+      "concentration" : "7.781848551769139",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-11 12:12",
+      "concentration" : "7.334897532021211",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-12 12:12",
+      "concentration" : "6.549066757106077",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-13 12:12",
+      "concentration" : "7.659528097549584",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-14 12:12",
+      "concentration" : "6.642670149821777",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-15 12:12",
+      "concentration" : "6.357481050636819",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-16 12:12",
+      "concentration" : "5.589109338517089",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-17 12:12",
+      "concentration" : "4.875852925836467",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-18 12:12",
+      "concentration" : "4.885345812316898",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-19 12:12",
+      "concentration" : "5.402634061373872",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-20 12:12",
+      "concentration" : "5.068326539874337",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-21 12:12",
+      "concentration" : "7.1977213466092245",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-22 12:12",
+      "concentration" : "5.854252792187649",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-23 12:12",
+      "concentration" : "5.3695253246571735",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-24 12:12",
+      "concentration" : "5.150760601130973",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-25 12:12",
+      "concentration" : "5.58513550026614",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-26 12:12",
+      "concentration" : "6.812489638368125",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-27 12:12",
+      "concentration" : "4.968814419705",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-28 12:12",
+      "concentration" : "7.791162561152304",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-29 12:12",
+      "concentration" : "7.3868979344719925",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-06-30 12:12",
+      "concentration" : "4.891461912182215",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-01 12:12",
+      "concentration" : "7.210476502369222",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-02 12:12",
+      "concentration" : "4.083509168117288",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-03 12:12",
+      "concentration" : "7.214411667779525",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-04 12:12",
+      "concentration" : "4.0957387126745655",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-05 12:12",
+      "concentration" : "6.3015176138464195",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-06 12:12",
+      "concentration" : "4.566263770317259",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-07 12:12",
+      "concentration" : "5.405151498021226",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-08 12:12",
+      "concentration" : "6.387178991631108",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-09 12:12",
+      "concentration" : "4.86896202358859",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-10 12:12",
+      "concentration" : "5.235768885375969",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-11 12:12",
+      "concentration" : "4.740704791026841",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-12 12:12",
+      "concentration" : "5.079198813260929",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-13 12:12",
+      "concentration" : "4.623731382612965",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-14 12:12",
+      "concentration" : "7.429250552225946",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-15 12:12",
+      "concentration" : "5.936694018029451",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-16 12:12",
+      "concentration" : "6.942669806620392",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-17 12:12",
+      "concentration" : "7.331499135833866",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-18 12:12",
+      "concentration" : "7.083713113063617",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-19 12:12",
+      "concentration" : "4.254161886135732",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-20 12:12",
+      "concentration" : "5.107015476552928",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-21 12:12",
+      "concentration" : "4.306405806729942",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-22 12:12",
+      "concentration" : "4.252943497542774",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-23 12:12",
+      "concentration" : "7.268435348877974",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-24 12:12",
+      "concentration" : "7.018986612241557",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-25 12:12",
+      "concentration" : "6.539968494143109",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-26 12:12",
+      "concentration" : "7.4730713985194654",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-27 12:12",
+      "concentration" : "7.249033116008235",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-28 12:12",
+      "concentration" : "5.539615140605443",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-29 12:12",
+      "concentration" : "6.369459386454128",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-30 12:12",
+      "concentration" : "5.624386622566993",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-07-31 12:12",
+      "concentration" : "5.167415244798443",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-01 12:12",
+      "concentration" : "6.284511412214661",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-02 12:12",
+      "concentration" : "6.181903631930304",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-03 12:12",
+      "concentration" : "4.353939323291048",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-04 12:12",
+      "concentration" : "4.922685738909777",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-05 12:12",
+      "concentration" : "5.989761168396516",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-06 12:12",
+      "concentration" : "7.026602369361096",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-07 12:12",
+      "concentration" : "7.765362408356154",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-08 12:12",
+      "concentration" : "6.376263658757514",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-09 12:12",
+      "concentration" : "7.749302715858336",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-10 12:12",
+      "concentration" : "6.444923477761259",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-11 12:12",
+      "concentration" : "4.243978454798939",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-12 12:12",
+      "concentration" : "5.26684431832625",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-13 12:12",
+      "concentration" : "6.026049189778661",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-14 12:12",
+      "concentration" : "4.988907074219722",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-15 12:12",
+      "concentration" : "6.492534721508246",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-16 12:12",
+      "concentration" : "7.676506361313702",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-17 12:12",
+      "concentration" : "7.6921651518657805",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-18 12:12",
+      "concentration" : "7.441085497603202",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-19 12:12",
+      "concentration" : "4.944654214605579",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-20 12:12",
+      "concentration" : "6.297613357805931",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-21 12:12",
+      "concentration" : "5.7469018657881605",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-22 12:12",
+      "concentration" : "6.17079181758723",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-23 12:12",
+      "concentration" : "5.787551287882058",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-24 12:12",
+      "concentration" : "5.3069506427526845",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-25 12:12",
+      "concentration" : "4.67555335337331",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-26 12:12",
+      "concentration" : "5.503318511682204",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-27 12:12",
+      "concentration" : "4.018304686790582",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-28 12:12",
+      "concentration" : "5.363579086318216",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-29 12:12",
+      "concentration" : "6.411672048474106",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-30 12:12",
+      "concentration" : "4.689246637046782",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-08-31 12:12",
+      "concentration" : "5.843525882201342",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-01 12:12",
+      "concentration" : "5.34974406342009",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-02 12:12",
+      "concentration" : "6.700586204266754",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-03 12:12",
+      "concentration" : "7.6025487837947905",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-04 12:12",
+      "concentration" : "6.890671485249031",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-05 12:12",
+      "concentration" : "4.928038124162343",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-06 12:12",
+      "concentration" : "5.473020139567126",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-07 12:12",
+      "concentration" : "4.473322712685582",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-08 12:12",
+      "concentration" : "5.713676624856386",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-09 12:12",
+      "concentration" : "7.708744372839689",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-10 12:12",
+      "concentration" : "4.744287909818557",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-11 12:12",
+      "concentration" : "6.072522117535657",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-12 12:12",
+      "concentration" : "6.404500414976729",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-13 12:12",
+      "concentration" : "4.494082935018947",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-14 12:12",
+      "concentration" : "5.705874672605027",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-15 12:12",
+      "concentration" : "7.524215248697427",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-16 12:12",
+      "concentration" : "7.4429698113127145",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-17 12:12",
+      "concentration" : "7.614569500570742",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-18 12:12",
+      "concentration" : "7.790550540667208",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-19 12:12",
+      "concentration" : "5.655718875034344",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-20 12:12",
+      "concentration" : "7.292599562143744",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-21 12:12",
+      "concentration" : "6.8830177785288384",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-22 12:12",
+      "concentration" : "6.341185719338949",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-23 12:12",
+      "concentration" : "6.855644321081453",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-24 12:12",
+      "concentration" : "5.778985880071235",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-25 12:12",
+      "concentration" : "7.218765719883691",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-26 12:12",
+      "concentration" : "6.974031578925042",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-27 12:12",
+      "concentration" : "4.759850436973126",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-28 12:12",
+      "concentration" : "6.956363228006461",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-29 12:12",
+      "concentration" : "4.919792933018835",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-09-30 12:12",
+      "concentration" : "4.945003166010366",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-01 12:12",
+      "concentration" : "5.071831481319791",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-02 12:12",
+      "concentration" : "6.745100706195332",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-03 12:12",
+      "concentration" : "6.38675965418889",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-04 12:12",
+      "concentration" : "5.913144283914081",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-05 12:12",
+      "concentration" : "4.517824302617737",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-06 12:12",
+      "concentration" : "5.14335396740692",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-07 12:12",
+      "concentration" : "6.000829428426583",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-08 12:12",
+      "concentration" : "6.792903739297778",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-09 12:12",
+      "concentration" : "4.461819925271949",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-10 12:12",
+      "concentration" : "7.448409653781043",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-11 12:12",
+      "concentration" : "7.495697197574357",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-12 12:12",
+      "concentration" : "6.932715388444149",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-13 12:12",
+      "concentration" : "6.534168926314388",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-14 12:12",
+      "concentration" : "5.1818916407426645",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-15 12:12",
+      "concentration" : "4.8713517873856835",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-16 12:12",
+      "concentration" : "7.4790190387079765",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-17 12:12",
+      "concentration" : "4.885788024422922",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-18 12:12",
+      "concentration" : "5.222749646859547",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-19 12:12",
+      "concentration" : "6.687954713788378",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-20 12:12",
+      "concentration" : "4.601391052450646",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-21 12:12",
+      "concentration" : "5.839078103501798",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-22 12:12",
+      "concentration" : "7.324762947957234",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-23 12:12",
+      "concentration" : "4.024532884227179",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-24 12:12",
+      "concentration" : "7.506873357182936",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-25 12:12",
+      "concentration" : "7.696634734107462",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-26 12:12",
+      "concentration" : "6.212743394764374",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-27 12:12",
+      "concentration" : "7.0768516059121795",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-28 12:12",
+      "concentration" : "6.475773670588971",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-29 12:12",
+      "concentration" : "6.9944209495942555",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-30 12:12",
+      "concentration" : "6.081613263737455",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-10-31 12:12",
+      "concentration" : "4.652833508077125",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-01 12:12",
+      "concentration" : "5.8911201297935385",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-02 12:12",
+      "concentration" : "6.536256371537712",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-03 12:12",
+      "concentration" : "6.9768508576583095",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-04 12:12",
+      "concentration" : "6.827673870318634",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-05 12:12",
+      "concentration" : "6.786631493146752",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-06 12:12",
+      "concentration" : "6.348484307937873",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-07 12:12",
+      "concentration" : "4.8152298340640325",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-08 12:12",
+      "concentration" : "7.730850136659656",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-09 12:12",
+      "concentration" : "7.148042777673035",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-10 12:12",
+      "concentration" : "5.779370072212597",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-11 12:12",
+      "concentration" : "7.007052719090915",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-12 12:12",
+      "concentration" : "7.742323386302313",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-13 12:12",
+      "concentration" : "7.399681541541308",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-14 12:12",
+      "concentration" : "6.206239297405533",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-15 12:12",
+      "concentration" : "5.682756567904274",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-16 12:12",
+      "concentration" : "5.630339078177769",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-17 12:12",
+      "concentration" : "6.887856857475218",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-18 12:12",
+      "concentration" : "4.25728312748655",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-19 12:12",
+      "concentration" : "7.5622734778955465",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-20 12:12",
+      "concentration" : "4.506725837711963",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-21 12:12",
+      "concentration" : "5.097067000247174",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-22 12:12",
+      "concentration" : "6.23753215115135",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-23 12:12",
+      "concentration" : "4.2875730226818245",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-24 12:12",
+      "concentration" : "4.583732954660866",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-25 12:12",
+      "concentration" : "5.725457495547702",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-26 12:12",
+      "concentration" : "5.357811455359091",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-27 12:12",
+      "concentration" : "7.482989603696257",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-28 12:12",
+      "concentration" : "6.830134302615834",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-29 12:12",
+      "concentration" : "7.210167646786095",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-11-30 12:12",
+      "concentration" : "5.932953109206165",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-12-01 12:12",
+      "concentration" : "5.755290632845547",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-12-02 12:12",
+      "concentration" : "4.732106935231995",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "BloodSugar",
+      "dateTime" : "2019-12-03 12:12",
+      "concentration" : "5.788936408911903",
+      "height" : null,
+      "weight" : null
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-04 12:12",
+      "concentration" : null,
+      "height" : "163.91302818818596",
+      "weight" : "53.67498385718848"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-05 12:12",
+      "concentration" : null,
+      "height" : "168.6904498732449",
+      "weight" : "66.039800928269"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-06 12:12",
+      "concentration" : null,
+      "height" : "163.41879756512438",
+      "weight" : "55.27022835921042"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-07 12:12",
+      "concentration" : null,
+      "height" : "168.12431564033014",
+      "weight" : "56.52558723637279"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-08 12:12",
+      "concentration" : null,
+      "height" : "160.95125597722804",
+      "weight" : "51.12269718546924"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-09 12:12",
+      "concentration" : null,
+      "height" : "170.28686689757447",
+      "weight" : "55.42084310174721"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-10 12:12",
+      "concentration" : null,
+      "height" : "164.98457796438777",
+      "weight" : "54.613152252819944"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-11 12:12",
+      "concentration" : null,
+      "height" : "173.65479763996888",
+      "weight" : "61.867619140403825"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-12 12:12",
+      "concentration" : null,
+      "height" : "165.02712118264188",
+      "weight" : "60.06082527688868"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-13 12:12",
+      "concentration" : null,
+      "height" : "171.7518179207683",
+      "weight" : "61.756097642017025"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-14 12:12",
+      "concentration" : null,
+      "height" : "159.42335406465196",
+      "weight" : "52.15226208125765"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-15 12:12",
+      "concentration" : null,
+      "height" : "157.7915000026604",
+      "weight" : "57.99017070562859"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-16 12:12",
+      "concentration" : null,
+      "height" : "167.66201830414872",
+      "weight" : "56.031915768288904"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-17 12:12",
+      "concentration" : null,
+      "height" : "172.80297505857675",
+      "weight" : "60.420285359664604"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-18 12:12",
+      "concentration" : null,
+      "height" : "172.2458232869035",
+      "weight" : "56.60350169764587"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-19 12:12",
+      "concentration" : null,
+      "height" : "168.97101449805982",
+      "weight" : "54.55249192431873"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-20 12:12",
+      "concentration" : null,
+      "height" : "172.967734352986",
+      "weight" : "70.14797581203594"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-21 12:12",
+      "concentration" : null,
+      "height" : "158.44185884916487",
+      "weight" : "61.665455994664555"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-22 12:12",
+      "concentration" : null,
+      "height" : "167.37746267245475",
+      "weight" : "69.0762513222565"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-23 12:12",
+      "concentration" : null,
+      "height" : "159.239920869327",
+      "weight" : "48.44380177033335"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-24 12:12",
+      "concentration" : null,
+      "height" : "158.83354790939381",
+      "weight" : "60.244497497260404"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-25 12:12",
+      "concentration" : null,
+      "height" : "171.39840780076668",
+      "weight" : "70.99386547681867"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-26 12:12",
+      "concentration" : null,
+      "height" : "168.52459212084005",
+      "weight" : "63.43940280858291"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-27 12:12",
+      "concentration" : null,
+      "height" : "158.43364854618775",
+      "weight" : "47.11091632111822"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-28 12:12",
+      "concentration" : null,
+      "height" : "158.1478797684552",
+      "weight" : "52.86009574103923"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-29 12:12",
+      "concentration" : null,
+      "height" : "164.9089262814815",
+      "weight" : "61.18177024580183"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-30 12:12",
+      "concentration" : null,
+      "height" : "172.09275851615158",
+      "weight" : "61.09366152153736"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2019-12-31 12:12",
+      "concentration" : null,
+      "height" : "167.20001655090115",
+      "weight" : "62.6091867329724"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-01 12:12",
+      "concentration" : null,
+      "height" : "169.03953307144712",
+      "weight" : "65.4300681249132"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-02 12:12",
+      "concentration" : null,
+      "height" : "172.72660880111604",
+      "weight" : "69.72687908855005"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-03 12:12",
+      "concentration" : null,
+      "height" : "169.38875366819093",
+      "weight" : "60.28873264251847"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-04 12:12",
+      "concentration" : null,
+      "height" : "170.56288549597556",
+      "weight" : "69.28234195080223"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-05 12:12",
+      "concentration" : null,
+      "height" : "159.80743761584515",
+      "weight" : "63.02044631263422"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-06 12:12",
+      "concentration" : null,
+      "height" : "171.7856797854813",
+      "weight" : "67.29345486240071"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-07 12:12",
+      "concentration" : null,
+      "height" : "165.45033157886274",
+      "weight" : "60.98198496793725"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-08 12:12",
+      "concentration" : null,
+      "height" : "169.7421035159644",
+      "weight" : "60.65575863593888"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-09 12:12",
+      "concentration" : null,
+      "height" : "168.5313405741766",
+      "weight" : "58.55347920617885"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-10 12:12",
+      "concentration" : null,
+      "height" : "166.15219377606303",
+      "weight" : "67.46984670806243"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-11 12:12",
+      "concentration" : null,
+      "height" : "161.6749606131116",
+      "weight" : "59.626447597836744"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-12 12:12",
+      "concentration" : null,
+      "height" : "163.79054374707735",
+      "weight" : "53.81613211277708"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-13 12:12",
+      "concentration" : null,
+      "height" : "159.32729980203507",
+      "weight" : "52.83138790649026"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-14 12:12",
+      "concentration" : null,
+      "height" : "167.02717073561863",
+      "weight" : "52.637513263467355"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-15 12:12",
+      "concentration" : null,
+      "height" : "158.79729510718136",
+      "weight" : "60.12246687622134"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-16 12:12",
+      "concentration" : null,
+      "height" : "161.12957378439552",
+      "weight" : "54.21189030887195"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-17 12:12",
+      "concentration" : null,
+      "height" : "172.73273292108126",
+      "weight" : "69.62631465902152"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-18 12:12",
+      "concentration" : null,
+      "height" : "168.75486696184228",
+      "weight" : "60.45419154525824"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-19 12:12",
+      "concentration" : null,
+      "height" : "161.08125410839293",
+      "weight" : "64.49014102171371"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-20 12:12",
+      "concentration" : null,
+      "height" : "165.34431098780004",
+      "weight" : "65.8787263730318"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-21 12:12",
+      "concentration" : null,
+      "height" : "169.65095010763872",
+      "weight" : "64.67792558613584"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-22 12:12",
+      "concentration" : null,
+      "height" : "166.49985707175532",
+      "weight" : "51.357083078192815"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-23 12:12",
+      "concentration" : null,
+      "height" : "164.9411439877904",
+      "weight" : "61.381191955772316"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-24 12:12",
+      "concentration" : null,
+      "height" : "166.77605257232682",
+      "weight" : "52.588916768561155"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-25 12:12",
+      "concentration" : null,
+      "height" : "159.02779656056447",
+      "weight" : "46.90580820621498"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-26 12:12",
+      "concentration" : null,
+      "height" : "168.0032988678055",
+      "weight" : "52.436685248375035"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-27 12:12",
+      "concentration" : null,
+      "height" : "157.80845189052198",
+      "weight" : "53.24365634459079"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-28 12:12",
+      "concentration" : null,
+      "height" : "161.76085863076295",
+      "weight" : "62.46441099393321"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-29 12:12",
+      "concentration" : null,
+      "height" : "159.87117182772428",
+      "weight" : "51.567547020402046"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-30 12:12",
+      "concentration" : null,
+      "height" : "173.56748334637297",
+      "weight" : "68.97617669029358"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-01-31 12:12",
+      "concentration" : null,
+      "height" : "158.4638560179395",
+      "weight" : "56.34692497922256"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-01 12:12",
+      "concentration" : null,
+      "height" : "158.89373851909852",
+      "weight" : "61.374181052900255"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-02 12:12",
+      "concentration" : null,
+      "height" : "159.89027982735564",
+      "weight" : "57.71602415827446"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-03 12:12",
+      "concentration" : null,
+      "height" : "166.36694417762754",
+      "weight" : "65.75115289255298"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-04 12:12",
+      "concentration" : null,
+      "height" : "168.67104001179712",
+      "weight" : "60.92307549782181"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-05 12:12",
+      "concentration" : null,
+      "height" : "173.17455678370143",
+      "weight" : "70.91064417034546"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-06 12:12",
+      "concentration" : null,
+      "height" : "163.50411366068855",
+      "weight" : "60.07417837169495"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-07 12:12",
+      "concentration" : null,
+      "height" : "170.61465672929606",
+      "weight" : "69.19436016318006"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-08 12:12",
+      "concentration" : null,
+      "height" : "158.78482607400093",
+      "weight" : "62.90093742396623"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-09 12:12",
+      "concentration" : null,
+      "height" : "172.22380200069168",
+      "weight" : "54.879017135555266"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-10 12:12",
+      "concentration" : null,
+      "height" : "162.98523125467602",
+      "weight" : "49.58862666205483"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-11 12:12",
+      "concentration" : null,
+      "height" : "174.26063033373447",
+      "weight" : "60.32117465078319"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-12 12:12",
+      "concentration" : null,
+      "height" : "172.29097346977906",
+      "weight" : "59.572854881142725"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-13 12:12",
+      "concentration" : null,
+      "height" : "171.93655290696324",
+      "weight" : "57.633853179569236"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-14 12:12",
+      "concentration" : null,
+      "height" : "158.8503106786133",
+      "weight" : "49.74242890642594"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-15 12:12",
+      "concentration" : null,
+      "height" : "158.69320085157443",
+      "weight" : "56.56549503989407"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-16 12:12",
+      "concentration" : null,
+      "height" : "170.13294468678555",
+      "weight" : "67.84851229505482"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-17 12:12",
+      "concentration" : null,
+      "height" : "160.92025987816288",
+      "weight" : "59.71924507754319"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-18 12:12",
+      "concentration" : null,
+      "height" : "161.03840848236896",
+      "weight" : "51.752936304150616"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-19 12:12",
+      "concentration" : null,
+      "height" : "161.1576902534454",
+      "weight" : "48.43243883584109"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-20 12:12",
+      "concentration" : null,
+      "height" : "162.9527416168852",
+      "weight" : "54.35594986047143"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-21 12:12",
+      "concentration" : null,
+      "height" : "162.79824276991818",
+      "weight" : "53.27637489096194"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-22 12:12",
+      "concentration" : null,
+      "height" : "165.10877997200504",
+      "weight" : "50.82113148110793"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-23 12:12",
+      "concentration" : null,
+      "height" : "158.15745639655782",
+      "weight" : "54.68548209810232"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-24 12:12",
+      "concentration" : null,
+      "height" : "164.46226983666207",
+      "weight" : "50.569218235176976"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-25 12:12",
+      "concentration" : null,
+      "height" : "169.0074571736573",
+      "weight" : "55.901855690262245"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-26 12:12",
+      "concentration" : null,
+      "height" : "162.20632903115887",
+      "weight" : "65.41031619323559"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-27 12:12",
+      "concentration" : null,
+      "height" : "161.91970447164803",
+      "weight" : "62.3046533089925"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-28 12:12",
+      "concentration" : null,
+      "height" : "167.68055224415787",
+      "weight" : "68.03597512191969"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-02-29 12:12",
+      "concentration" : null,
+      "height" : "159.95637892443372",
+      "weight" : "50.91384192352039"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-01 12:12",
+      "concentration" : null,
+      "height" : "171.43249620171954",
+      "weight" : "72.36054789787559"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-02 12:12",
+      "concentration" : null,
+      "height" : "167.08968225278844",
+      "weight" : "69.69895429816557"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-03 12:12",
+      "concentration" : null,
+      "height" : "169.36512010681798",
+      "weight" : "53.58401285384407"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-04 12:12",
+      "concentration" : null,
+      "height" : "167.66291597835396",
+      "weight" : "52.27432917285755"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-05 12:12",
+      "concentration" : null,
+      "height" : "166.37843104242484",
+      "weight" : "51.76423204911645"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-06 12:12",
+      "concentration" : null,
+      "height" : "162.2807639976333",
+      "weight" : "52.82303586634471"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-07 12:12",
+      "concentration" : null,
+      "height" : "158.4573417214797",
+      "weight" : "59.00840157689424"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-08 12:12",
+      "concentration" : null,
+      "height" : "159.24714084859713",
+      "weight" : "56.97913387047932"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-09 12:12",
+      "concentration" : null,
+      "height" : "171.06120088687996",
+      "weight" : "71.78869471051354"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-10 12:12",
+      "concentration" : null,
+      "height" : "163.3310889926883",
+      "weight" : "65.8713174170114"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-11 12:12",
+      "concentration" : null,
+      "height" : "172.6776415059258",
+      "weight" : "64.85813710773327"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-12 12:12",
+      "concentration" : null,
+      "height" : "169.16368663210355",
+      "weight" : "59.60257692144398"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-13 12:12",
+      "concentration" : null,
+      "height" : "168.17714331278378",
+      "weight" : "64.01540082749086"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-14 12:12",
+      "concentration" : null,
+      "height" : "160.78564475854705",
+      "weight" : "53.784098275316886"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-15 12:12",
+      "concentration" : null,
+      "height" : "160.52519759520945",
+      "weight" : "52.15732238909992"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-16 12:12",
+      "concentration" : null,
+      "height" : "167.8599580504208",
+      "weight" : "66.1027664694336"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-17 12:12",
+      "concentration" : null,
+      "height" : "170.82495204791573",
+      "weight" : "68.55050044825468"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-18 12:12",
+      "concentration" : null,
+      "height" : "167.26613224579177",
+      "weight" : "55.56230883653236"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-19 12:12",
+      "concentration" : null,
+      "height" : "160.29579308659683",
+      "weight" : "51.85732190925996"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-20 12:12",
+      "concentration" : null,
+      "height" : "160.70611912920768",
+      "weight" : "57.944009143761726"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-21 12:12",
+      "concentration" : null,
+      "height" : "165.58065120773708",
+      "weight" : "58.627542519757895"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-22 12:12",
+      "concentration" : null,
+      "height" : "170.9225622247848",
+      "weight" : "67.92895640649486"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-23 12:12",
+      "concentration" : null,
+      "height" : "165.22670774272137",
+      "weight" : "63.31301665926487"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-24 12:12",
+      "concentration" : null,
+      "height" : "173.58045054037905",
+      "weight" : "74.51081228163424"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-25 12:12",
+      "concentration" : null,
+      "height" : "167.15222084854102",
+      "weight" : "58.0510127990086"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-26 12:12",
+      "concentration" : null,
+      "height" : "162.79681015856553",
+      "weight" : "49.64555693192729"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-27 12:12",
+      "concentration" : null,
+      "height" : "169.70529086100916",
+      "weight" : "54.904921799154074"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-28 12:12",
+      "concentration" : null,
+      "height" : "165.27606772785447",
+      "weight" : "55.58916385167792"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-29 12:12",
+      "concentration" : null,
+      "height" : "173.6713404346328",
+      "weight" : "61.04937089207234"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-30 12:12",
+      "concentration" : null,
+      "height" : "163.756425200465",
+      "weight" : "62.17077196930974"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-03-31 12:12",
+      "concentration" : null,
+      "height" : "162.43814062476108",
+      "weight" : "51.550254081454945"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-01 12:12",
+      "concentration" : null,
+      "height" : "163.41487438695685",
+      "weight" : "66.732339874558"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-02 12:12",
+      "concentration" : null,
+      "height" : "170.7475719089173",
+      "weight" : "67.04924282267315"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-03 12:12",
+      "concentration" : null,
+      "height" : "171.49574236332035",
+      "weight" : "61.628343919910776"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-04 12:12",
+      "concentration" : null,
+      "height" : "174.20129206504984",
+      "weight" : "73.2599153128627"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-05 12:12",
+      "concentration" : null,
+      "height" : "163.34743840220335",
+      "weight" : "49.39544775579229"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-06 12:12",
+      "concentration" : null,
+      "height" : "162.27246791137125",
+      "weight" : "58.35932209860772"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-07 12:12",
+      "concentration" : null,
+      "height" : "173.55067944372703",
+      "weight" : "73.32932102645513"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-08 12:12",
+      "concentration" : null,
+      "height" : "171.9214941547626",
+      "weight" : "59.64694083440995"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-09 12:12",
+      "concentration" : null,
+      "height" : "169.3794666695808",
+      "weight" : "59.7127023831691"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-10 12:12",
+      "concentration" : null,
+      "height" : "172.66801459820604",
+      "weight" : "66.01921273443767"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-11 12:12",
+      "concentration" : null,
+      "height" : "163.56775508975895",
+      "weight" : "62.3863486253166"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-12 12:12",
+      "concentration" : null,
+      "height" : "165.69178344727536",
+      "weight" : "51.953655937686435"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-13 12:12",
+      "concentration" : null,
+      "height" : "158.6227720048549",
+      "weight" : "62.4455183440898"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-14 12:12",
+      "concentration" : null,
+      "height" : "166.5945320067499",
+      "weight" : "59.138575644107064"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-15 12:12",
+      "concentration" : null,
+      "height" : "162.73240952067846",
+      "weight" : "54.51755956881581"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-16 12:12",
+      "concentration" : null,
+      "height" : "158.9661931688079",
+      "weight" : "52.018715646018386"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-17 12:12",
+      "concentration" : null,
+      "height" : "163.42762928232986",
+      "weight" : "60.712170556090776"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-18 12:12",
+      "concentration" : null,
+      "height" : "167.9181396629575",
+      "weight" : "61.14516889830389"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-19 12:12",
+      "concentration" : null,
+      "height" : "162.56850438857197",
+      "weight" : "56.33923526506529"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-20 12:12",
+      "concentration" : null,
+      "height" : "167.56316104376174",
+      "weight" : "69.42710638006422"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-21 12:12",
+      "concentration" : null,
+      "height" : "158.89745904560266",
+      "weight" : "60.848493218743215"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-22 12:12",
+      "concentration" : null,
+      "height" : "167.82398601094891",
+      "weight" : "58.5780960248499"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-23 12:12",
+      "concentration" : null,
+      "height" : "170.03808192773118",
+      "weight" : "54.705237688902564"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-24 12:12",
+      "concentration" : null,
+      "height" : "163.16110009266546",
+      "weight" : "55.57765341511469"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-25 12:12",
+      "concentration" : null,
+      "height" : "169.19687770857567",
+      "weight" : "54.89963786484099"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-26 12:12",
+      "concentration" : null,
+      "height" : "161.63348508197436",
+      "weight" : "50.99159126766272"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-27 12:12",
+      "concentration" : null,
+      "height" : "163.9600824019484",
+      "weight" : "55.433741041823936"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-28 12:12",
+      "concentration" : null,
+      "height" : "162.28533539070995",
+      "weight" : "50.84023642018651"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-29 12:12",
+      "concentration" : null,
+      "height" : "158.1594767774363",
+      "weight" : "56.30622209213977"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-04-30 12:12",
+      "concentration" : null,
+      "height" : "160.1065616092795",
+      "weight" : "61.11594031075987"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-01 12:12",
+      "concentration" : null,
+      "height" : "160.71201910148133",
+      "weight" : "48.637710680426416"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-02 12:12",
+      "concentration" : null,
+      "height" : "173.72444802962215",
+      "weight" : "67.99947070823285"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-03 12:12",
+      "concentration" : null,
+      "height" : "169.05547187187574",
+      "weight" : "53.620524241432484"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-04 12:12",
+      "concentration" : null,
+      "height" : "167.734807358105",
+      "weight" : "61.39050692314607"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-05 12:12",
+      "concentration" : null,
+      "height" : "160.67674317378496",
+      "weight" : "52.68668899401808"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-06 12:12",
+      "concentration" : null,
+      "height" : "164.76010698017654",
+      "weight" : "62.04765250846068"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-07 12:12",
+      "concentration" : null,
+      "height" : "158.37233868411278",
+      "weight" : "51.46473699700831"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-08 12:12",
+      "concentration" : null,
+      "height" : "164.61961448061464",
+      "weight" : "55.32919700049308"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-09 12:12",
+      "concentration" : null,
+      "height" : "167.1998165615366",
+      "weight" : "56.88939555182482"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-10 12:12",
+      "concentration" : null,
+      "height" : "163.00567613918759",
+      "weight" : "57.254239673036736"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-11 12:12",
+      "concentration" : null,
+      "height" : "159.80116422033927",
+      "weight" : "55.211153442438395"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-12 12:12",
+      "concentration" : null,
+      "height" : "172.48588264909895",
+      "weight" : "59.52151888866432"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-13 12:12",
+      "concentration" : null,
+      "height" : "160.7968238255511",
+      "weight" : "62.04928258508468"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-14 12:12",
+      "concentration" : null,
+      "height" : "161.080634177824",
+      "weight" : "58.596053572101546"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-15 12:12",
+      "concentration" : null,
+      "height" : "160.2339094736606",
+      "weight" : "50.09688072880041"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-16 12:12",
+      "concentration" : null,
+      "height" : "172.81665901126595",
+      "weight" : "57.403976174840004"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-17 12:12",
+      "concentration" : null,
+      "height" : "158.17717945304207",
+      "weight" : "61.88392889245218"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-18 12:12",
+      "concentration" : null,
+      "height" : "158.43089277955164",
+      "weight" : "54.67459176191814"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-19 12:12",
+      "concentration" : null,
+      "height" : "158.26203920308646",
+      "weight" : "56.97210846370114"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-20 12:12",
+      "concentration" : null,
+      "height" : "172.1791183412736",
+      "weight" : "57.052192769304874"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-21 12:12",
+      "concentration" : null,
+      "height" : "161.74973494465158",
+      "weight" : "50.235529204378025"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-22 12:12",
+      "concentration" : null,
+      "height" : "169.68365712942565",
+      "weight" : "67.7318722818869"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-23 12:12",
+      "concentration" : null,
+      "height" : "168.45376980145682",
+      "weight" : "66.83233772507073"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-24 12:12",
+      "concentration" : null,
+      "height" : "170.10849127909304",
+      "weight" : "69.89027211134267"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-25 12:12",
+      "concentration" : null,
+      "height" : "161.01869770755897",
+      "weight" : "51.600419904569065"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-26 12:12",
+      "concentration" : null,
+      "height" : "162.8510181140006",
+      "weight" : "66.29530148462756"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-27 12:12",
+      "concentration" : null,
+      "height" : "173.5168068441753",
+      "weight" : "66.04366595642884"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-28 12:12",
+      "concentration" : null,
+      "height" : "167.86714730940975",
+      "weight" : "64.96479472433671"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-29 12:12",
+      "concentration" : null,
+      "height" : "173.55013953239035",
+      "weight" : "63.258053226383836"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-30 12:12",
+      "concentration" : null,
+      "height" : "165.76396043995715",
+      "weight" : "68.16936546726257"
+    }, {
+      "recordType" : "Bmi",
+      "dateTime" : "2020-05-31 12:12",
+      "concentration" : null,
+      "height" : "160.78253755991972",
+      "weight" : "63.025861711596306"
+    } ]
+  },
+    "dateTime" : "2019-12-03 12:12",
+    "concentration" : "5.788936408911903",
+    "height" : null,
+    "weight" : null
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-04 12:12",
+    "concentration" : null,
+    "height" : "163.91302818818596",
+    "weight" : "53.67498385718848"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-05 12:12",
+    "concentration" : null,
+    "height" : "168.6904498732449",
+    "weight" : "66.039800928269"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-06 12:12",
+    "concentration" : null,
+    "height" : "163.41879756512438",
+    "weight" : "55.27022835921042"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-07 12:12",
+    "concentration" : null,
+    "height" : "168.12431564033014",
+    "weight" : "56.52558723637279"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-08 12:12",
+    "concentration" : null,
+    "height" : "160.95125597722804",
+    "weight" : "51.12269718546924"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-09 12:12",
+    "concentration" : null,
+    "height" : "170.28686689757447",
+    "weight" : "55.42084310174721"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-10 12:12",
+    "concentration" : null,
+    "height" : "164.98457796438777",
+    "weight" : "54.613152252819944"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-11 12:12",
+    "concentration" : null,
+    "height" : "173.65479763996888",
+    "weight" : "61.867619140403825"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-12 12:12",
+    "concentration" : null,
+    "height" : "165.02712118264188",
+    "weight" : "60.06082527688868"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-13 12:12",
+    "concentration" : null,
+    "height" : "171.7518179207683",
+    "weight" : "61.756097642017025"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-14 12:12",
+    "concentration" : null,
+    "height" : "159.42335406465196",
+    "weight" : "52.15226208125765"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-15 12:12",
+    "concentration" : null,
+    "height" : "157.7915000026604",
+    "weight" : "57.99017070562859"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-16 12:12",
+    "concentration" : null,
+    "height" : "167.66201830414872",
+    "weight" : "56.031915768288904"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-17 12:12",
+    "concentration" : null,
+    "height" : "172.80297505857675",
+    "weight" : "60.420285359664604"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-18 12:12",
+    "concentration" : null,
+    "height" : "172.2458232869035",
+    "weight" : "56.60350169764587"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-19 12:12",
+    "concentration" : null,
+    "height" : "168.97101449805982",
+    "weight" : "54.55249192431873"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-20 12:12",
+    "concentration" : null,
+    "height" : "172.967734352986",
+    "weight" : "70.14797581203594"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-21 12:12",
+    "concentration" : null,
+    "height" : "158.44185884916487",
+    "weight" : "61.665455994664555"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-22 12:12",
+    "concentration" : null,
+    "height" : "167.37746267245475",
+    "weight" : "69.0762513222565"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-23 12:12",
+    "concentration" : null,
+    "height" : "159.239920869327",
+    "weight" : "48.44380177033335"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-24 12:12",
+    "concentration" : null,
+    "height" : "158.83354790939381",
+    "weight" : "60.244497497260404"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-25 12:12",
+    "concentration" : null,
+    "height" : "171.39840780076668",
+    "weight" : "70.99386547681867"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-26 12:12",
+    "concentration" : null,
+    "height" : "168.52459212084005",
+    "weight" : "63.43940280858291"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-27 12:12",
+    "concentration" : null,
+    "height" : "158.43364854618775",
+    "weight" : "47.11091632111822"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-28 12:12",
+    "concentration" : null,
+    "height" : "158.1478797684552",
+    "weight" : "52.86009574103923"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-29 12:12",
+    "concentration" : null,
+    "height" : "164.9089262814815",
+    "weight" : "61.18177024580183"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-30 12:12",
+    "concentration" : null,
+    "height" : "172.09275851615158",
+    "weight" : "61.09366152153736"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2019-12-31 12:12",
+    "concentration" : null,
+    "height" : "167.20001655090115",
+    "weight" : "62.6091867329724"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-01 12:12",
+    "concentration" : null,
+    "height" : "169.03953307144712",
+    "weight" : "65.4300681249132"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-02 12:12",
+    "concentration" : null,
+    "height" : "172.72660880111604",
+    "weight" : "69.72687908855005"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-03 12:12",
+    "concentration" : null,
+    "height" : "169.38875366819093",
+    "weight" : "60.28873264251847"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-04 12:12",
+    "concentration" : null,
+    "height" : "170.56288549597556",
+    "weight" : "69.28234195080223"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-05 12:12",
+    "concentration" : null,
+    "height" : "159.80743761584515",
+    "weight" : "63.02044631263422"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-06 12:12",
+    "concentration" : null,
+    "height" : "171.7856797854813",
+    "weight" : "67.29345486240071"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-07 12:12",
+    "concentration" : null,
+    "height" : "165.45033157886274",
+    "weight" : "60.98198496793725"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-08 12:12",
+    "concentration" : null,
+    "height" : "169.7421035159644",
+    "weight" : "60.65575863593888"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-09 12:12",
+    "concentration" : null,
+    "height" : "168.5313405741766",
+    "weight" : "58.55347920617885"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-10 12:12",
+    "concentration" : null,
+    "height" : "166.15219377606303",
+    "weight" : "67.46984670806243"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-11 12:12",
+    "concentration" : null,
+    "height" : "161.6749606131116",
+    "weight" : "59.626447597836744"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-12 12:12",
+    "concentration" : null,
+    "height" : "163.79054374707735",
+    "weight" : "53.81613211277708"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-13 12:12",
+    "concentration" : null,
+    "height" : "159.32729980203507",
+    "weight" : "52.83138790649026"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-14 12:12",
+    "concentration" : null,
+    "height" : "167.02717073561863",
+    "weight" : "52.637513263467355"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-15 12:12",
+    "concentration" : null,
+    "height" : "158.79729510718136",
+    "weight" : "60.12246687622134"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-16 12:12",
+    "concentration" : null,
+    "height" : "161.12957378439552",
+    "weight" : "54.21189030887195"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-17 12:12",
+    "concentration" : null,
+    "height" : "172.73273292108126",
+    "weight" : "69.62631465902152"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-18 12:12",
+    "concentration" : null,
+    "height" : "168.75486696184228",
+    "weight" : "60.45419154525824"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-19 12:12",
+    "concentration" : null,
+    "height" : "161.08125410839293",
+    "weight" : "64.49014102171371"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-20 12:12",
+    "concentration" : null,
+    "height" : "165.34431098780004",
+    "weight" : "65.8787263730318"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-21 12:12",
+    "concentration" : null,
+    "height" : "169.65095010763872",
+    "weight" : "64.67792558613584"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-22 12:12",
+    "concentration" : null,
+    "height" : "166.49985707175532",
+    "weight" : "51.357083078192815"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-23 12:12",
+    "concentration" : null,
+    "height" : "164.9411439877904",
+    "weight" : "61.381191955772316"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-24 12:12",
+    "concentration" : null,
+    "height" : "166.77605257232682",
+    "weight" : "52.588916768561155"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-25 12:12",
+    "concentration" : null,
+    "height" : "159.02779656056447",
+    "weight" : "46.90580820621498"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-26 12:12",
+    "concentration" : null,
+    "height" : "168.0032988678055",
+    "weight" : "52.436685248375035"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-27 12:12",
+    "concentration" : null,
+    "height" : "157.80845189052198",
+    "weight" : "53.24365634459079"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-28 12:12",
+    "concentration" : null,
+    "height" : "161.76085863076295",
+    "weight" : "62.46441099393321"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-29 12:12",
+    "concentration" : null,
+    "height" : "159.87117182772428",
+    "weight" : "51.567547020402046"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-30 12:12",
+    "concentration" : null,
+    "height" : "173.56748334637297",
+    "weight" : "68.97617669029358"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-01-31 12:12",
+    "concentration" : null,
+    "height" : "158.4638560179395",
+    "weight" : "56.34692497922256"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-01 12:12",
+    "concentration" : null,
+    "height" : "158.89373851909852",
+    "weight" : "61.374181052900255"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-02 12:12",
+    "concentration" : null,
+    "height" : "159.89027982735564",
+    "weight" : "57.71602415827446"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-03 12:12",
+    "concentration" : null,
+    "height" : "166.36694417762754",
+    "weight" : "65.75115289255298"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-04 12:12",
+    "concentration" : null,
+    "height" : "168.67104001179712",
+    "weight" : "60.92307549782181"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-05 12:12",
+    "concentration" : null,
+    "height" : "173.17455678370143",
+    "weight" : "70.91064417034546"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-06 12:12",
+    "concentration" : null,
+    "height" : "163.50411366068855",
+    "weight" : "60.07417837169495"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-07 12:12",
+    "concentration" : null,
+    "height" : "170.61465672929606",
+    "weight" : "69.19436016318006"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-08 12:12",
+    "concentration" : null,
+    "height" : "158.78482607400093",
+    "weight" : "62.90093742396623"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-09 12:12",
+    "concentration" : null,
+    "height" : "172.22380200069168",
+    "weight" : "54.879017135555266"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-10 12:12",
+    "concentration" : null,
+    "height" : "162.98523125467602",
+    "weight" : "49.58862666205483"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-11 12:12",
+    "concentration" : null,
+    "height" : "174.26063033373447",
+    "weight" : "60.32117465078319"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-12 12:12",
+    "concentration" : null,
+    "height" : "172.29097346977906",
+    "weight" : "59.572854881142725"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-13 12:12",
+    "concentration" : null,
+    "height" : "171.93655290696324",
+    "weight" : "57.633853179569236"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-14 12:12",
+    "concentration" : null,
+    "height" : "158.8503106786133",
+    "weight" : "49.74242890642594"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-15 12:12",
+    "concentration" : null,
+    "height" : "158.69320085157443",
+    "weight" : "56.56549503989407"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-16 12:12",
+    "concentration" : null,
+    "height" : "170.13294468678555",
+    "weight" : "67.84851229505482"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-17 12:12",
+    "concentration" : null,
+    "height" : "160.92025987816288",
+    "weight" : "59.71924507754319"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-18 12:12",
+    "concentration" : null,
+    "height" : "161.03840848236896",
+    "weight" : "51.752936304150616"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-19 12:12",
+    "concentration" : null,
+    "height" : "161.1576902534454",
+    "weight" : "48.43243883584109"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-20 12:12",
+    "concentration" : null,
+    "height" : "162.9527416168852",
+    "weight" : "54.35594986047143"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-21 12:12",
+    "concentration" : null,
+    "height" : "162.79824276991818",
+    "weight" : "53.27637489096194"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-22 12:12",
+    "concentration" : null,
+    "height" : "165.10877997200504",
+    "weight" : "50.82113148110793"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-23 12:12",
+    "concentration" : null,
+    "height" : "158.15745639655782",
+    "weight" : "54.68548209810232"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-24 12:12",
+    "concentration" : null,
+    "height" : "164.46226983666207",
+    "weight" : "50.569218235176976"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-25 12:12",
+    "concentration" : null,
+    "height" : "169.0074571736573",
+    "weight" : "55.901855690262245"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-26 12:12",
+    "concentration" : null,
+    "height" : "162.20632903115887",
+    "weight" : "65.41031619323559"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-27 12:12",
+    "concentration" : null,
+    "height" : "161.91970447164803",
+    "weight" : "62.3046533089925"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-28 12:12",
+    "concentration" : null,
+    "height" : "167.68055224415787",
+    "weight" : "68.03597512191969"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-02-29 12:12",
+    "concentration" : null,
+    "height" : "159.95637892443372",
+    "weight" : "50.91384192352039"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-01 12:12",
+    "concentration" : null,
+    "height" : "171.43249620171954",
+    "weight" : "72.36054789787559"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-02 12:12",
+    "concentration" : null,
+    "height" : "167.08968225278844",
+    "weight" : "69.69895429816557"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-03 12:12",
+    "concentration" : null,
+    "height" : "169.36512010681798",
+    "weight" : "53.58401285384407"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-04 12:12",
+    "concentration" : null,
+    "height" : "167.66291597835396",
+    "weight" : "52.27432917285755"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-05 12:12",
+    "concentration" : null,
+    "height" : "166.37843104242484",
+    "weight" : "51.76423204911645"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-06 12:12",
+    "concentration" : null,
+    "height" : "162.2807639976333",
+    "weight" : "52.82303586634471"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-07 12:12",
+    "concentration" : null,
+    "height" : "158.4573417214797",
+    "weight" : "59.00840157689424"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-08 12:12",
+    "concentration" : null,
+    "height" : "159.24714084859713",
+    "weight" : "56.97913387047932"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-09 12:12",
+    "concentration" : null,
+    "height" : "171.06120088687996",
+    "weight" : "71.78869471051354"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-10 12:12",
+    "concentration" : null,
+    "height" : "163.3310889926883",
+    "weight" : "65.8713174170114"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-11 12:12",
+    "concentration" : null,
+    "height" : "172.6776415059258",
+    "weight" : "64.85813710773327"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-12 12:12",
+    "concentration" : null,
+    "height" : "169.16368663210355",
+    "weight" : "59.60257692144398"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-13 12:12",
+    "concentration" : null,
+    "height" : "168.17714331278378",
+    "weight" : "64.01540082749086"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-14 12:12",
+    "concentration" : null,
+    "height" : "160.78564475854705",
+    "weight" : "53.784098275316886"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-15 12:12",
+    "concentration" : null,
+    "height" : "160.52519759520945",
+    "weight" : "52.15732238909992"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-16 12:12",
+    "concentration" : null,
+    "height" : "167.8599580504208",
+    "weight" : "66.1027664694336"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-17 12:12",
+    "concentration" : null,
+    "height" : "170.82495204791573",
+    "weight" : "68.55050044825468"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-18 12:12",
+    "concentration" : null,
+    "height" : "167.26613224579177",
+    "weight" : "55.56230883653236"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-19 12:12",
+    "concentration" : null,
+    "height" : "160.29579308659683",
+    "weight" : "51.85732190925996"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-20 12:12",
+    "concentration" : null,
+    "height" : "160.70611912920768",
+    "weight" : "57.944009143761726"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-21 12:12",
+    "concentration" : null,
+    "height" : "165.58065120773708",
+    "weight" : "58.627542519757895"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-22 12:12",
+    "concentration" : null,
+    "height" : "170.9225622247848",
+    "weight" : "67.92895640649486"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-23 12:12",
+    "concentration" : null,
+    "height" : "165.22670774272137",
+    "weight" : "63.31301665926487"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-24 12:12",
+    "concentration" : null,
+    "height" : "173.58045054037905",
+    "weight" : "74.51081228163424"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-25 12:12",
+    "concentration" : null,
+    "height" : "167.15222084854102",
+    "weight" : "58.0510127990086"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-26 12:12",
+    "concentration" : null,
+    "height" : "162.79681015856553",
+    "weight" : "49.64555693192729"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-27 12:12",
+    "concentration" : null,
+    "height" : "169.70529086100916",
+    "weight" : "54.904921799154074"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-28 12:12",
+    "concentration" : null,
+    "height" : "165.27606772785447",
+    "weight" : "55.58916385167792"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-29 12:12",
+    "concentration" : null,
+    "height" : "173.6713404346328",
+    "weight" : "61.04937089207234"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-30 12:12",
+    "concentration" : null,
+    "height" : "163.756425200465",
+    "weight" : "62.17077196930974"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-03-31 12:12",
+    "concentration" : null,
+    "height" : "162.43814062476108",
+    "weight" : "51.550254081454945"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-01 12:12",
+    "concentration" : null,
+    "height" : "163.41487438695685",
+    "weight" : "66.732339874558"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-02 12:12",
+    "concentration" : null,
+    "height" : "170.7475719089173",
+    "weight" : "67.04924282267315"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-03 12:12",
+    "concentration" : null,
+    "height" : "171.49574236332035",
+    "weight" : "61.628343919910776"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-04 12:12",
+    "concentration" : null,
+    "height" : "174.20129206504984",
+    "weight" : "73.2599153128627"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-05 12:12",
+    "concentration" : null,
+    "height" : "163.34743840220335",
+    "weight" : "49.39544775579229"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-06 12:12",
+    "concentration" : null,
+    "height" : "162.27246791137125",
+    "weight" : "58.35932209860772"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-07 12:12",
+    "concentration" : null,
+    "height" : "173.55067944372703",
+    "weight" : "73.32932102645513"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-08 12:12",
+    "concentration" : null,
+    "height" : "171.9214941547626",
+    "weight" : "59.64694083440995"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-09 12:12",
+    "concentration" : null,
+    "height" : "169.3794666695808",
+    "weight" : "59.7127023831691"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-10 12:12",
+    "concentration" : null,
+    "height" : "172.66801459820604",
+    "weight" : "66.01921273443767"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-11 12:12",
+    "concentration" : null,
+    "height" : "163.56775508975895",
+    "weight" : "62.3863486253166"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-12 12:12",
+    "concentration" : null,
+    "height" : "165.69178344727536",
+    "weight" : "51.953655937686435"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-13 12:12",
+    "concentration" : null,
+    "height" : "158.6227720048549",
+    "weight" : "62.4455183440898"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-14 12:12",
+    "concentration" : null,
+    "height" : "166.5945320067499",
+    "weight" : "59.138575644107064"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-15 12:12",
+    "concentration" : null,
+    "height" : "162.73240952067846",
+    "weight" : "54.51755956881581"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-16 12:12",
+    "concentration" : null,
+    "height" : "158.9661931688079",
+    "weight" : "52.018715646018386"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-17 12:12",
+    "concentration" : null,
+    "height" : "163.42762928232986",
+    "weight" : "60.712170556090776"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-18 12:12",
+    "concentration" : null,
+    "height" : "167.9181396629575",
+    "weight" : "61.14516889830389"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-19 12:12",
+    "concentration" : null,
+    "height" : "162.56850438857197",
+    "weight" : "56.33923526506529"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-20 12:12",
+    "concentration" : null,
+    "height" : "167.56316104376174",
+    "weight" : "69.42710638006422"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-21 12:12",
+    "concentration" : null,
+    "height" : "158.89745904560266",
+    "weight" : "60.848493218743215"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-22 12:12",
+    "concentration" : null,
+    "height" : "167.82398601094891",
+    "weight" : "58.5780960248499"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-23 12:12",
+    "concentration" : null,
+    "height" : "170.03808192773118",
+    "weight" : "54.705237688902564"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-24 12:12",
+    "concentration" : null,
+    "height" : "163.16110009266546",
+    "weight" : "55.57765341511469"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-25 12:12",
+    "concentration" : null,
+    "height" : "169.19687770857567",
+    "weight" : "54.89963786484099"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-26 12:12",
+    "concentration" : null,
+    "height" : "161.63348508197436",
+    "weight" : "50.99159126766272"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-27 12:12",
+    "concentration" : null,
+    "height" : "163.9600824019484",
+    "weight" : "55.433741041823936"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-28 12:12",
+    "concentration" : null,
+    "height" : "162.28533539070995",
+    "weight" : "50.84023642018651"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-29 12:12",
+    "concentration" : null,
+    "height" : "158.1594767774363",
+    "weight" : "56.30622209213977"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-04-30 12:12",
+    "concentration" : null,
+    "height" : "160.1065616092795",
+    "weight" : "61.11594031075987"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-01 12:12",
+    "concentration" : null,
+    "height" : "160.71201910148133",
+    "weight" : "48.637710680426416"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-02 12:12",
+    "concentration" : null,
+    "height" : "173.72444802962215",
+    "weight" : "67.99947070823285"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-03 12:12",
+    "concentration" : null,
+    "height" : "169.05547187187574",
+    "weight" : "53.620524241432484"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-04 12:12",
+    "concentration" : null,
+    "height" : "167.734807358105",
+    "weight" : "61.39050692314607"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-05 12:12",
+    "concentration" : null,
+    "height" : "160.67674317378496",
+    "weight" : "52.68668899401808"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-06 12:12",
+    "concentration" : null,
+    "height" : "164.76010698017654",
+    "weight" : "62.04765250846068"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-07 12:12",
+    "concentration" : null,
+    "height" : "158.37233868411278",
+    "weight" : "51.46473699700831"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-08 12:12",
+    "concentration" : null,
+    "height" : "164.61961448061464",
+    "weight" : "55.32919700049308"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-09 12:12",
+    "concentration" : null,
+    "height" : "167.1998165615366",
+    "weight" : "56.88939555182482"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-10 12:12",
+    "concentration" : null,
+    "height" : "163.00567613918759",
+    "weight" : "57.254239673036736"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-11 12:12",
+    "concentration" : null,
+    "height" : "159.80116422033927",
+    "weight" : "55.211153442438395"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-12 12:12",
+    "concentration" : null,
+    "height" : "172.48588264909895",
+    "weight" : "59.52151888866432"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-13 12:12",
+    "concentration" : null,
+    "height" : "160.7968238255511",
+    "weight" : "62.04928258508468"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-14 12:12",
+    "concentration" : null,
+    "height" : "161.080634177824",
+    "weight" : "58.596053572101546"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-15 12:12",
+    "concentration" : null,
+    "height" : "160.2339094736606",
+    "weight" : "50.09688072880041"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-16 12:12",
+    "concentration" : null,
+    "height" : "172.81665901126595",
+    "weight" : "57.403976174840004"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-17 12:12",
+    "concentration" : null,
+    "height" : "158.17717945304207",
+    "weight" : "61.88392889245218"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-18 12:12",
+    "concentration" : null,
+    "height" : "158.43089277955164",
+    "weight" : "54.67459176191814"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-19 12:12",
+    "concentration" : null,
+    "height" : "158.26203920308646",
+    "weight" : "56.97210846370114"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-20 12:12",
+    "concentration" : null,
+    "height" : "172.1791183412736",
+    "weight" : "57.052192769304874"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-21 12:12",
+    "concentration" : null,
+    "height" : "161.74973494465158",
+    "weight" : "50.235529204378025"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-22 12:12",
+    "concentration" : null,
+    "height" : "169.68365712942565",
+    "weight" : "67.7318722818869"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-23 12:12",
+    "concentration" : null,
+    "height" : "168.45376980145682",
+    "weight" : "66.83233772507073"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-24 12:12",
+    "concentration" : null,
+    "height" : "170.10849127909304",
+    "weight" : "69.89027211134267"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-25 12:12",
+    "concentration" : null,
+    "height" : "161.01869770755897",
+    "weight" : "51.600419904569065"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-26 12:12",
+    "concentration" : null,
+    "height" : "162.8510181140006",
+    "weight" : "66.29530148462756"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-27 12:12",
+    "concentration" : null,
+    "height" : "173.5168068441753",
+    "weight" : "66.04366595642884"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-28 12:12",
+    "concentration" : null,
+    "height" : "167.86714730940975",
+    "weight" : "64.96479472433671"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-29 12:12",
+    "concentration" : null,
+    "height" : "173.55013953239035",
+    "weight" : "63.258053226383836"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-30 12:12",
+    "concentration" : null,
+    "height" : "165.76396043995715",
+    "weight" : "68.16936546726257"
+  }, {
+    "recordType" : "Bmi",
+    "dateTime" : "2020-05-31 12:12",
+    "concentration" : null,
+    "height" : "160.78253755991972",
+    "weight" : "63.025861711596306"
+  } ]
+}
